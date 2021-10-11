@@ -7,6 +7,9 @@
     },
     "files": [
         "README.md",
+        "ww1984-ts/pxt.json",
+        "ww1984-ts/README.md",
+        "ww1984-ts/ww1984.ts",
         "beams.md",
         "crate.md",
         "M-D01_1.md"
