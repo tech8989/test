@@ -47,5 +47,5 @@ player.onChat("run", function () {
 })
 ```
 ```package
-minecraft-ww1984=github:tech8989/test/ww1984-ts
+minecraft-ww1984=github:tech8989/ww1984-ts
 ```
