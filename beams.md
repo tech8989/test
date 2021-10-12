@@ -46,6 +46,8 @@ player.onChat("run", function () {
     ww.placeBlock(BeamsGlass.LimeStainedGlass, Direction.Right)
 })
 ```
+
+
 ```package
-minecraft-ww1984=github:tech8989/wwheist
+minecraft-wwheist=github:tech8989/wwheist
 ```
