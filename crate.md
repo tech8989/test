@@ -44,5 +44,5 @@ player.onChat("run", function () {
 })
 ```
 ```package
-minecraft-ww1984=github:ReWrite-Media/ww1984-ts
+minecraft-wwheist=github:tech8989/wwheist
 ```
